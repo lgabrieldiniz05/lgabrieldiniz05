@@ -33,6 +33,9 @@
   <a href="https://www.instagram.com/lucasdinizmelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-943941220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+    
+  ## Meu Setup :computer:
+    
 </div>
   
   <img align="center" alt="Lucas-Java" height="30" width="100" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
