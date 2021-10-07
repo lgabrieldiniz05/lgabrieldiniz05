@@ -1,8 +1,8 @@
-### Olá, Me chamo Lucas seja bem vindo ao meu repositório!!!
+### Olá, Me chamo Lucas.
 
 
 
-### Bem vinde! Me chamo Herbert Galindo👋
+### Bem vinde!👋👋👋
 
 
 
