@@ -9,7 +9,6 @@
  <div align="center">
     <a href="https://github.com/lgabrieldiniz05">
     <img height="180em" src="https://user-images.githubusercontent.com/90981124/151218993-3e752e09-f924-49c3-a17a-c9d44ef856df.gif"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgabrieldiniz05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="180em" src="https://user-images.githubusercontent.com/90981124/151226335-2cd335f4-6282-4ccf-8852-c57b7107fc35.gif"/>
 </div>
   
